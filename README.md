@@ -1,5 +1,12 @@
 # CSWhy
-A simple yet working CS2 External cheat
+A simple yet (was) working CS2 External cheat
+
+# This doesn't work
+CSWhy was developed as a side project, was never made to work like a proper cheat, yet it still worked until ~ September 13. After then, it stopped working. 
+I tried fixing it, but due to a lack of skill, I've failed. 
+I think it's best to put this project to archive, and move on to developing something better.
+
+Thanks everyone who used CSWhy!
 
 # Warning 
 1. **NO, IT WILL NOT TAP NL/FT/AW, OR ANY INTERNAL CHEAT**
